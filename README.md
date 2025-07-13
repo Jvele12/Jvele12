@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=jvele12&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" height="150" src="https://cdn-icons-png.flaticon.com/512/11268/11268870.png"  />
+<img align="right" height="140" src="https://cdn-icons-png.flaticon.com/512/11268/11268870.png"  />
 
 ###
 
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
 </div>
+
 
 
 ---
